@@ -1,0 +1,66 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f7f4;
+  color: #333;
+}
+
+/* Light mode styles */
+.light {
+  background-color: #fff;
+  color: #333;
+}
+
+.light .header {
+  background-color: #5da5a4;
+  color: #fff;
+}
+
+.light .toggle {
+  background-color: #5da5a4;
+  color: #fff;
+}
+
+.light .search-form {
+  border: 1px solid #5da5a4;
+}
+
+.light .search-input {
+  background-color: #fff;
+  color: #333;
+}
+
+.light .search-button {
+  background-color: #5da5a4;
+  color: #fff;
+}
+
+/* Dark mode styles */
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark .header {
+  background-color: #68b6b5;
+  color: #fff;
+}
+
+.dark .toggle {
+  background-color: #68b6b5;
+  color: #fff;
+}
+
+.dark .search-form {
+  border: 1px solid #68b6b5;
+}
+
+.dark .search-input {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark .search-button {
+  background-color: #68b6b5;
+  color: #fff;
+}
